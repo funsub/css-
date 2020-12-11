@@ -1,0 +1,60 @@
+body, h1, p{
+	margin: 0;
+}
+
+header{
+	background-image: url("../image/sea.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+	padding: 150px 725px 200px 150px;
+	height: 80vh;
+}
+
+h1{
+	text-transform: capitalize;
+	font-size: 85px;
+	line-height: 63px;
+	color: silver;
+}
+hr{
+	width: 100px;
+	text-align: left;
+	margin-left: 0;
+	border-color: #9a9292;
+}
+.head-para{
+	font-size: 20px;
+	color: white;
+	margin: 25px 0;
+
+}
+.btn1{
+	border: none;
+	background-color: transparent;
+	color: white;
+	font-size: 18px;
+	padding: 15px 40px;
+	border: 2px solid grey;
+}
+
+.btn1:hover{
+	background-color: skyblue;
+	color: white;
+	border: 2px solid grey;
+
+}
+.btn2{
+	border: none;
+	background-color: transparent;
+	color: skyblue;
+	color: white;
+	font-size: 18px;
+	padding: 13px 40px;
+	border: 2px solid grey;
+}
+.btn2:hover{
+	background-color: skyblue;
+	color: white;
+}
